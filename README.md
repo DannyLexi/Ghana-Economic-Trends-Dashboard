@@ -94,6 +94,8 @@ macro_indicators
 ## 📊 Power BI Dashboard
 
 The Power BI dashboard presents the historical data through KPI cards, trend visualizations, and analytical charts.
+IMAGE:
+https://github.com/DannyLexi/Ghana-Economic-Trends-Dashboard/blob/main/ghana-economic-trends-dashboard/images/Screenshot%202026-09-30%20095006.png
 
 
 The dashboard focuses on:
