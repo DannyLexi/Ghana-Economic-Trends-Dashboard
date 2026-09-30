@@ -95,17 +95,7 @@ macro_indicators
 
 The Power BI dashboard presents the historical data through KPI cards, trend visualizations, and analytical charts.
 
-Suggested repository preview:
 
-> Add screenshots of the completed Power BI dashboard to the `images/` folder and reference them here.
-
-Example:
-
-```markdown
-![Ghana Economic Dashboard](images/dashboard-overview.png)
-```
-
-The dashboard focuses on:
 
 - Inflation trends
 - GDP growth
